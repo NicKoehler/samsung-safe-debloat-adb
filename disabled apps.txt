@@ -1,0 +1,59 @@
+pm disable-user -k com.sec.android.app.dexonpc
+
+pm disable-user -k com.sec.android.desktopmode.uiservice
+
+pm disable-user -k com.sec.android.app.desktoplauncher 
+
+pm disable-user -k com.samsung.desktopsystemui 
+
+pm disable-user -k com.samsung.android.bixby.wakeup 
+
+pm disable-user -k com.samsung.android.app.spage 
+
+pm disable-user -k com.samsung.android.bixby.service 
+
+pm disable-user -k com.samsung.android.bixby.agent 
+
+pm disable-user -k com.samsung.android.bixby.agent.dummy
+
+pm disable-user -k com.android.chrome
+
+pm disable-user -k com.dsi.ant.plugins.antplus
+
+pm disable-user -k com.dsi.ant.sample.acquirechannels
+
+pm disable-user -k com.dsi.ant.server
+
+pm disable-user -k com.dsi.ant.service.socket
+
+pm disable-user -k com.facebook.appmanager
+
+pm disable-user -k com.facebook.katana
+
+pm disable-user -k com.facebook.services
+
+pm disable-user -k com.facebook.system
+
+pm disable-user -k com.microsoft.appmanager
+
+pm disable-user -k com.microsoft.skydrive
+
+pm disable-user -k com.google.android.youtube
+
+pm disable-user -k com.google.android.gm
+
+pm disable-user -k com.google.android.apps.tachyon
+
+pm disable-user -k com.touchtype.swiftkey
+
+pm disable-user -k com.swiftkey.swiftkeyconfigurator
+
+pm disable-user -k com.netflix.partner.activation
+
+pm disable-user -k com.netflix.mediaclient
+
+pm disable-user -k com.samsung.android.icecone
+
+pm disable-user -k com.samsung.android.app.tips
+
+pm disable-user -k de.axelspringer.yana.zeropage
