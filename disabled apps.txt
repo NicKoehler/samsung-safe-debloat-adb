@@ -34,6 +34,8 @@ pm disable-user -k com.facebook.katana
 
 pm disable-user -k com.facebook.services
 
+pm disable-user -k com.samsung.android.kidsinstaller
+
 pm disable-user -k com.facebook.system
 
 pm disable-user -k com.microsoft.appmanager
