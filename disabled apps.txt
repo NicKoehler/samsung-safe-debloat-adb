@@ -1,47 +1,48 @@
 # android
-pm disable-user -k com.android.chrome
+pm disable-user com.android.chrome
 
 # ant
-pm disable-user -k com.dsi.ant.plugins.antplus
-pm disable-user -k com.dsi.ant.sample.acquirechannels
-pm disable-user -k com.dsi.ant.server
-pm disable-user -k com.dsi.ant.service.socket
+pm disable-user com.dsi.ant.plugins.antplus
+pm disable-user com.dsi.ant.sample.acquirechannels
+pm disable-user com.dsi.ant.server
+pm disable-user com.dsi.ant.service.socket
 
 # facebook
-pm disable-user -k com.facebook.appmanager
-pm disable-user -k com.facebook.katana
-pm disable-user -k com.facebook.services
-pm disable-user -k com.facebook.system
+pm disable-user com.facebook.appmanager
+pm disable-user com.facebook.katana
+pm disable-user com.facebook.services
+pm disable-user com.facebook.system
 
 # google
-pm disable-user -k com.google.android.apps.tachyon
-pm disable-user -k com.google.android.gm
-pm disable-user -k com.google.android.youtube
+pm disable-user com.google.android.apps.tachyon
+pm disable-user com.google.android.gm
+pm disable-user com.google.android.youtube
 
 # microsoft
-pm disable-user -k com.microsoft.appmanager
-pm disable-user -k com.microsoft.skydrive
+pm disable-user com.microsoft.appmanager
+pm disable-user com.microsoft.skydrive
 
 # netflix
-pm disable-user -k com.netflix.mediaclient
-pm disable-user -k com.netflix.partner.activation
+pm disable-user com.netflix.mediaclient
+pm disable-user com.netflix.partner.activation
 
 # samsung
-pm disable-user -k com.samsung.android.app.spage
-pm disable-user -k com.samsung.android.app.tips
-pm disable-user -k com.samsung.android.bixby.agent
-pm disable-user -k com.samsung.android.bixby.agent.dummy
-pm disable-user -k com.samsung.android.bixby.service
-pm disable-user -k com.samsung.android.bixby.wakeup
-pm disable-user -k com.samsung.android.icecone
-pm disable-user -k com.samsung.android.kidsinstaller
-pm disable-user -k com.samsung.desktopsystemui
-pm disable-user -k com.samsung.klmsagent
-pm disable-user -k com.sec.android.app.desktoplauncher
-pm disable-user -k com.sec.android.app.dexonpc
-pm disable-user -k com.sec.android.desktopmode.uiservice
+pm disable-user com.samsung.android.app.spage
+pm disable-user com.samsung.android.app.tips
+pm disable-user com.samsung.android.bixby.agent
+pm disable-user com.samsung.android.bixby.agent.dummy
+pm disable-user com.samsung.android.bixby.service
+pm disable-user com.samsung.android.bixby.wakeup
+pm disable-user com.samsung.android.icecone
+pm disable-user com.samsung.android.kidsinstaller
+pm disable-user com.samsung.desktopsystemui
+pm disable-user com.samsung.klmsagent
+pm disable-user com.sec.android.app.desktoplauncher
+pm disable-user com.sec.android.app.dexonpc
+pm disable-user com.sec.android.desktopmode.uiservice
+pm disable-user com.samsung.android.forest
 
 # others
-pm disable-user -k com.swiftkey.swiftkeyconfigurator
-pm disable-user -k com.touchtype.swiftkey
-pm disable-user -k de.axelspringer.yana.zeropage
+pm disable-user com.swiftkey.swiftkeyconfigurator
+pm disable-user com.touchtype.swiftkey
+pm disable-user de.axelspringer.yana.zeropage
